@@ -1,0 +1,27 @@
+.header { 
+	position : fixed;
+	top : 0;
+	left : 0.5%;
+	height: 7%;
+	width: 98%;
+	border: 4px;
+	border-style: solid;
+	border-color: #ff3300;
+	background-color: white;
+}
+
+.after-head { 
+	clear: left;
+	margin-top :7%;
+}
+
+img.right {
+	float:right;
+	margin: 0 0 1em 1em;
+}
+
+img.left {
+	float:left;
+	margin: 1em 1em 0 0;
+}
+
